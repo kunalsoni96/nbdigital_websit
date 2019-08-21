@@ -1,0 +1,13 @@
+{
+  "name": "codecommit_web_app",
+  "version": "1.0.0",
+  "description": "laravel in codecommit",
+  "author": "First Last <first.last@example.com>",
+  "main": "index.php",
+  "scripts": {
+    "start": "apache server.js"
+  },
+  "dependencies": {
+    "laravel": "5.8"
+  }
+}
